@@ -8,9 +8,12 @@ Since leaving my previous job, I’ve developed the following apps:
 
 ### 📱 Side Projects
 
+
+![image3](https://github.com/idlepoe/idlepoe/blob/main/0619074313560336.jpg?raw=true)
 - **Seoul Events** – Displays various cultural events (exhibitions, performances, festivals, etc.) happening in Seoul  
   GitHub: [https://github.com/idlepoe/seoul_event](https://github.com/idlepoe/seoul_event) *
 
+![image4](https://github.com/idlepoe/idlepoe/blob/main/0619074355771630.jpg?raw=true)
 - **Ulala** – A social app that lets users share YouTube music clips and listen to the same segment together  
   GitHub: [https://github.com/idlepoe/ulala_now2](https://github.com/idlepoe/ulala_now2) *
 
@@ -23,12 +26,15 @@ Since leaving my previous job, I’ve developed the following apps:
 - **Eunhasu** – An anonymous AI gender-guessing random chat messenger  
   GitHub: [https://github.com/idlepoe/eunhasu2](https://github.com/idlepoe/eunhasu2) *
 
+![image1](https://github.com/idlepoe/idlepoe/blob/main/0619074207796248.jpg?raw=true)
 - **Seoul Public Data Quiz** – An environmental quiz app using water temperature and fine dust data from Seoul’s major rivers  
   GitHub: [https://github.com/idlepoe/gonggong](https://github.com/idlepoe/gonggong) *
 
+![image2](https://github.com/idlepoe/idlepoe/blob/main/0619074251626233.jpg?raw=true)
 - **Seoul Pet Adoption Info** – Displays adoptable animals currently at the Seoul Animal Welfare Centers  
   GitHub: [https://github.com/idlepoe/seoul_pet_adoption](https://github.com/idlepoe/seoul_pet_adoption) *
 
+![image5](https://github.com/idlepoe/idlepoe/blob/main/061907442154546.jpg?raw=true)
 - **VideoToWebp** – An app that converts videos into WebP format  
   GitHub: [https://github.com/idlepoe/video_to_webp](https://github.com/idlepoe/video_to_webp) *
 

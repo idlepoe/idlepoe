@@ -34,6 +34,8 @@ Since leaving my previous job, I’ve developed the following apps:
 
 > \* Some apps may not be currently available on the store depending on operational status.
 
+![My Apps Screenshot](https://github.com/idlepoe/idlepoe/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-06-18%20223853.png?raw=true)
+
 ---
 
 ### 🛠 Tech Stack

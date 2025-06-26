@@ -9,9 +9,7 @@ Since leaving my previous job, I’ve developed the following apps:
 ### 📱 Side Projects
 
 
-![Screenshot](https://github.com/idlepoe/idlepoe/blob/main/062513360888172.jpg?raw=true)
-![Screenshot](https://github.com/idlepoe/idlepoe/blob/main/062513364095018.jpg?raw=true)
-
+![Screenshot](https://github.com/idlepoe/idlepoe/blob/main/062612493065799.jpg?raw=true)
 - **OfficeLounge** – A vibrant social app combining coin horse-racing, fishing mini-games, playlist sharing, and free-form discussion boards.  
   GitHub: [https://github.com/idlepoe/samusil_addon](https://github.com/idlepoe/samusil_addon) *
 

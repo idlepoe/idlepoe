@@ -40,7 +40,7 @@ Since leaving my previous job, I’ve developed the following apps:
 - **Seoul Pet Adoption Info** – Displays adoptable animals currently at the Seoul Animal Welfare Centers  
   GitHub: [https://github.com/idlepoe/seoul_pet_adoption](https://github.com/idlepoe/seoul_pet_adoption) *
 
-![image5](https://github.com/idlepoe/idlepoe/blob/main/062610224276399.jpg?raw=true)
+![image5](https://github.com/idlepoe/idlepoe/blob/main/0626124303718011.jpg?raw=true)
 - **VideoToWebp** – An app that converts videos into WebP format  
   GitHub: [https://github.com/idlepoe/video_to_webp](https://github.com/idlepoe/video_to_webp) *
 

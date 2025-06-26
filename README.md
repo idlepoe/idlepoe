@@ -15,7 +15,7 @@ Since leaving my previous job, I’ve developed the following apps:
 - **OfficeLounge** – A vibrant social app combining coin horse-racing, fishing mini-games, playlist sharing, and free-form discussion boards.  
   GitHub: [https://github.com/idlepoe/samusil_addon](https://github.com/idlepoe/samusil_addon) *
 
-![image3](https://github.com/idlepoe/idlepoe/blob/main/0619074313560336.jpg?raw=true)
+![image3](https://github.com/idlepoe/idlepoe/blob/main/0626124729894200.jpg?raw=true)
 - **Seoul Events** – Displays various cultural events (exhibitions, performances, festivals, etc.) happening in Seoul  
   GitHub: [https://github.com/idlepoe/seoul_event](https://github.com/idlepoe/seoul_event) *
 

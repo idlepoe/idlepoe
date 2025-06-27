@@ -24,6 +24,7 @@ Since leaving my previous job, I’ve developed the following apps:
 - **Jinpoommukpoom** – A social quiz app where users guess the price of food based on photos  
   GitHub: [https://github.com/idlepoe/muklog](https://github.com/idlepoe/muklog) *
 
+![Screenshot](https://github.com/idlepoe/idlepoe/blob/main/0628020952288110.jpg?raw=true)
 - **Zer0kcal** – A playful social app where AI always claims your uploaded food photo has zero calories  
   GitHub: [https://github.com/idlepoe/zer0kcal](https://github.com/idlepoe/zer0kcal) *
 

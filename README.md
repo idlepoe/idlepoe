@@ -8,7 +8,10 @@ Since leaving my previous job, I’ve developed the following apps:
 
 ### 📱 Side Projects
 
-
+![Paws for Home](https://github.com/idlepoe/idlepoe/blob/main/0702225206734117.jpg?raw=true)
+- **Paws for Home** – A compassionate Flutter app helping stray animals find their forever homes through real-time data from Korea's National Animal Protection Information System. Features include pet listings, detailed profiles, favorite management, and location-based search with Toss-style UI design.  
+  GitHub: [https://github.com/idlepoe/paws_for_home](https://github.com/idlepoe/paws_for_home) *
+  
 ![Screenshot](https://github.com/idlepoe/idlepoe/blob/main/062612493065799.jpg?raw=true)
 - **OfficeLounge** – A vibrant social app combining coin horse-racing, fishing mini-games, playlist sharing, and free-form discussion boards.  
   GitHub: [https://github.com/idlepoe/samusil_addon](https://github.com/idlepoe/samusil_addon) *

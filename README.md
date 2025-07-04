@@ -22,7 +22,7 @@ Since leaving my previous job, I’ve developed the following apps:
 
 ![image4](https://github.com/idlepoe/idlepoe/blob/main/0619074355771630.jpg?raw=true)
 - **Ulala** – A social app that lets users share YouTube music clips and listen to the same segment together  
-  GitHub: [https://github.com/idlepoe/ply_talk](https://github.com/idlepoe/ply_talk) *
+  GitHub: [https://github.com/idlepoe/ulala-now2](https://github.com/idlepoe/ulala-now2) *
 
 - **Jinpoommukpoom** – A social quiz app where users guess the price of food based on photos  
   GitHub: [https://github.com/idlepoe/muklog](https://github.com/idlepoe/muklog) *

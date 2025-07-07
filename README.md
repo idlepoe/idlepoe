@@ -8,7 +8,7 @@ Since leaving my previous job, I’ve developed the following apps:
 
 ### 📱 Side Projects
 
-![Ulala Cafe](https://github.com/idlepoe/idlepoe/blob/main/0706200936156720.jpg)
+![Ulala Cafe](https://github.com/idlepoe/idlepoe/blob/main/0706200936156720.jpg?raw=true)
 - **Ulala Cafe** – Experience the emotional vibes of Ulala Cafe with music—create your own playlist and share your favorite tunes with everyone!.  
   GitHub: [https://github.com/idlepoe/ulala_cafe](https://github.com/idlepoe/ulala_cafe) *
 

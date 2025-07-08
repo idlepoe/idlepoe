@@ -12,7 +12,7 @@ Since leaving my previous job, I’ve developed the following apps:
 - **Ulala Cafe** – Experience the emotional vibes of Ulala Cafe with music—create your own playlist and share your favorite tunes with everyone!.  
   GitHub: [https://github.com/idlepoe/ulala_cafe](https://github.com/idlepoe/ulala_cafe) *
 
-![Paws for Home](https://github.com/idlepoe/idlepoe/blob/main/0702225206734117.jpg?raw=true)
+![Paws for Home](https://github.com/idlepoe/idlepoe/blob/main/0708163300249569.jpg?raw=true)
 - **Paws for Home** – A compassionate Flutter app helping stray animals find their forever homes through real-time data from Korea's National Animal Protection Information System. Features include pet listings, detailed profiles, favorite management, and location-based search with Toss-style UI design.  
   GitHub: [https://github.com/idlepoe/paws_for_home](https://github.com/idlepoe/paws_for_home) *
   

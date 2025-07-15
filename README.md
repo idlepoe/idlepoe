@@ -8,6 +8,10 @@ Since leaving my previous job, I’ve developed the following apps:
 
 ### 📱 Side Projects
 
+![Easy News](https://github.com/idlepoe/idlepoe/blob/main/0715111456227666.jpg?raw=true)
+- **Easy News** – AI summarizes SBS news into easy, concise formats and highlights key terms like people, places, and organizations for quick understanding.  
+  GitHub: [https://github.com/idlepoe/easy_news](https://github.com/idlepoe/easy_news) *
+  
 ![Ulala Cafe](https://github.com/idlepoe/idlepoe/blob/main/0706200936156720.jpg?raw=true)
 - **Ulala Cafe** – Experience the emotional vibes of Ulala Cafe with music—create your own playlist and share your favorite tunes with everyone!.  
   GitHub: [https://github.com/idlepoe/ulala_cafe](https://github.com/idlepoe/ulala_cafe) *

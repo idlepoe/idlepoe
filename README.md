@@ -9,15 +9,15 @@ Since leaving my previous job, I’ve developed the following apps:
 ### 📱 Side Projects
 
 ![Easy News](https://github.com/idlepoe/idlepoe/blob/main/0715111456227666.jpg?raw=true)
-- **Easy News** – AI summarizes SBS news into easy, concise formats and highlights key terms like people, places, and organizations for quick understanding.  
+- **Easy News - AI-Summarized News for the Lazy** – AI summarizes SBS news into easy, concise formats and highlights key terms like people, places, and organizations for quick understanding.  
   GitHub: [https://github.com/idlepoe/easy_news](https://github.com/idlepoe/easy_news) *
   
 ![Ulala Cafe](https://github.com/idlepoe/idlepoe/blob/main/0706200936156720.jpg?raw=true)
-- **Ulala Cafe** – Experience the emotional vibes of Ulala Cafe with music—create your own playlist and share your favorite tunes with everyone!.  
+- **Ooh-La-La Café - Listen Together, Enjoy Together** – Experience the emotional vibes of Ulala Cafe with music—create your own playlist and share your favorite tunes with everyone!.  
   GitHub: [https://github.com/idlepoe/ulala_cafe](https://github.com/idlepoe/ulala_cafe) *
 
 ![Paws for Home](https://github.com/idlepoe/idlepoe/blob/main/0708163300249569.jpg?raw=true)
-- **Paws for Home** – A compassionate Flutter app helping stray animals find their forever homes through real-time data from Korea's National Animal Protection Information System. Features include pet listings, detailed profiles, favorite management, and location-based search with Toss-style UI design.  
+- **Paws for Home - Find Rescued Animals for Adoption** – A compassionate Flutter app helping stray animals find their forever homes through real-time data from Korea's National Animal Protection Information System. Features include pet listings, detailed profiles, favorite management, and location-based search with Toss-style UI design.  
   GitHub: [https://github.com/idlepoe/paws_for_home](https://github.com/idlepoe/paws_for_home) *
   
 ![Screenshot](https://github.com/idlepoe/idlepoe/blob/main/062612493065799.jpg?raw=true)
@@ -25,7 +25,7 @@ Since leaving my previous job, I’ve developed the following apps:
   GitHub: [https://github.com/idlepoe/samusil_addon](https://github.com/idlepoe/samusil_addon) *
 
 ![image3](https://github.com/idlepoe/idlepoe/blob/main/0628002630385000.jpg?raw=true)
-- **Seoul Events** – Displays various cultural events (exhibitions, performances, festivals, etc.) happening in Seoul  
+- **Seoul Culture Events – Exhibitions, Performances, and Festivals Info** – Displays various cultural events (exhibitions, performances, festivals, etc.) happening in Seoul  
   GitHub: [https://github.com/idlepoe/seoul_event](https://github.com/idlepoe/seoul_event) *
 
 ![image4](https://github.com/idlepoe/idlepoe/blob/main/0619074355771630.jpg?raw=true)
@@ -36,7 +36,7 @@ Since leaving my previous job, I’ve developed the following apps:
   GitHub: [https://github.com/idlepoe/muklog](https://github.com/idlepoe/muklog) *
 
 ![Screenshot](https://github.com/idlepoe/idlepoe/blob/main/0628020952288110.jpg?raw=true)
-- **Zer0kcal** – A playful social app where AI always claims your uploaded food photo has zero calories  
+- **ZeroCal - A Diet App That Lets You Enjoy Eating** – A playful social app where AI always claims your uploaded food photo has zero calories  
   GitHub: [https://github.com/idlepoe/zer0kcal](https://github.com/idlepoe/zer0kcal) *
 
 - **Eunhasu** – An anonymous AI gender-guessing random chat messenger  
@@ -51,7 +51,7 @@ Since leaving my previous job, I’ve developed the following apps:
   GitHub: [https://github.com/idlepoe/seoul_pet_adoption](https://github.com/idlepoe/seoul_pet_adoption) *
 
 ![image5](https://github.com/idlepoe/idlepoe/blob/main/0715202823453599.jpg?raw=true)
-- **Webp Me!** – An app that converts videos into WebP format  
+- **Webp Me! - Video Convert Webp** – An app that converts videos into WebP format  
   GitHub: [https://github.com/idlepoe/video_to_webp](https://github.com/idlepoe/video_to_webp) *
 
 > \* Some apps may not be currently available on the store depending on operational status.

@@ -13,7 +13,7 @@ Since leaving my previous job, I’ve developed the following apps:
   GitHub: [https://github.com/idlepoe/easy_news](https://github.com/idlepoe/easy_news) *
   
 ![Ulala Cafe](https://github.com/idlepoe/idlepoe/blob/main/0706200936156720.jpg?raw=true)
-- **Ooh-La-La Café - Listen Together, Enjoy Together** – Experience the emotional vibes of Ulala Cafe with music—create your own playlist and share your favorite tunes with everyone!.  
+- **Ulala Cafe - Listen Together, Enjoy Together** – Experience the emotional vibes of Ulala Cafe with music—create your own playlist and share your favorite tunes with everyone!.  
   GitHub: [https://github.com/idlepoe/ulala_cafe](https://github.com/idlepoe/ulala_cafe) *
 
 ![Paws for Home](https://github.com/idlepoe/idlepoe/blob/main/0708163300249569.jpg?raw=true)

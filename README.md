@@ -8,7 +8,7 @@ Since leaving my previous job, I’ve developed the following apps:
 
 ### 📱 Side Projects
 
-![Easy News](https://github.com/idlepoe/idlepoe/blob/main/0715111456227666.jpg?raw=true)
+![Easy News](https://github.com/idlepoe/idlepoe/blob/main/0720203321588206.jpg)
 - **Easy News - AI-Summarized News for the Lazy** – AI summarizes SBS news into easy, concise formats and highlights key terms like people, places, and organizations for quick understanding.  
   GitHub: [https://github.com/idlepoe/easy_news](https://github.com/idlepoe/easy_news) *
   

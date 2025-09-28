@@ -54,6 +54,19 @@ Since leaving my previous job, I’ve developed the following apps:
 - **Webp Me! - Video Convert Webp** – An app that converts videos into WebP format  
   GitHub: [https://github.com/idlepoe/video_to_webp](https://github.com/idlepoe/video_to_webp) *
 
+![image5](https://github.com/idlepoe/idlepoe/blob/main/0928174842636044.jpg?raw=true)
+- **Phone Throw** – A simple app that records the height of thrown phones and competes with users worldwide
+
+![image6](https://github.com/idlepoe/idlepoe/blob/main/0928175357797585.jpg?raw=true)
+- **QuikQuikChat** – A comprehensive app featuring real-time anonymous chat and work timer functionality
+
+![image7](https://github.com/idlepoe/idlepoe/blob/main/0928175628850095.jpg?raw=true)
+- **QuickShift** – A simple app for storing shift schedules locally and receiving shift notifications
+
+![image8](https://github.com/idlepoe/idlepoe/blob/main/0928175931816536.jpg?raw=true)
+- **QuickLotto** – An app that checks lottery tickets via QR code and sends push notifications when results are announced
+
+
 > \* Some apps may not be currently available on the store depending on operational status.
 
 ![My Apps Screenshot](https://github.com/idlepoe/idlepoe/blob/main/image.png?raw=true)

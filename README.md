@@ -32,6 +32,7 @@ Since leaving my previous job, I’ve developed the following apps:
 - **Ulala** – A social app that lets users share YouTube music clips and listen to the same segment together  
   GitHub: [https://github.com/idlepoe/ulala-now2](https://github.com/idlepoe/ulala-now2) *
 
+![image1](https://github.com/idlepoe/idlepoe/blob/main/0928180321855769.jpg?raw=true)
 - **Jinpoommukpoom** – A social quiz app where users guess the price of food based on photos  
   GitHub: [https://github.com/idlepoe/muklog](https://github.com/idlepoe/muklog) *
 
@@ -39,6 +40,7 @@ Since leaving my previous job, I’ve developed the following apps:
 - **ZeroCal - A Diet App That Lets You Enjoy Eating** – A playful social app where AI always claims your uploaded food photo has zero calories  
   GitHub: [https://github.com/idlepoe/zer0kcal](https://github.com/idlepoe/zer0kcal) *
 
+![Screenshot](https://github.com/idlepoe/idlepoe/blob/main/0928180602297576.jpg?raw=true)
 - **Eunhasu** – An anonymous AI gender-guessing random chat messenger  
   GitHub: [https://github.com/idlepoe/eunhasu2](https://github.com/idlepoe/eunhasu2) *
 
@@ -65,6 +67,11 @@ Since leaving my previous job, I’ve developed the following apps:
 
 ![image8](https://github.com/idlepoe/idlepoe/blob/main/0928175931816536.jpg?raw=true)
 - **QuickLotto** – An app that checks lottery tickets via QR code and sends push notifications when results are announced
+
+![image9](https://github.com/idlepoe/idlepoe/blob/main/0928180848438856.jpg?raw=true)
+- **PhotoQuest** – A social app where AI provides weekly themes, users submit photos matching the theme, and AI evaluates and ranks the submissions
+
+
 
 
 > \* Some apps may not be currently available on the store depending on operational status.

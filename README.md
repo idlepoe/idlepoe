@@ -72,14 +72,24 @@ Since leaving my previous job, I’ve developed the following apps:
 - **PhotoQuest** – A social app where AI provides weekly themes, users submit photos matching the theme, and AI evaluates and ranks the submissions
 
 ![MergedImages](https://github.com/idlepoe/idlepoe/blob/main/MergedImages.png?raw=true)
-- **Food Monster Battle** – Create AI monsters from food photos and battle them in this fun game! Collect your own food monsters.  
+- **Food Monster Battle** – Create AI monsters from food photos and battle them in this fun game! Collect your own food monsters.
 
+![Tip Calculator](https://github.com/idlepoe/idlepoe/blob/main/tipMerge.png?raw=true)
+- **Tip Calculator** – Smart tip calculator with bill splitting functionality for easy group dining calculations.
 
+![NextDayOff](https://github.com/idlepoe/idlepoe/blob/main/ddayMerged.png?raw=true)
+- **NextDayOff - Holiday Countdown** – See your next day off and holiday countdown easily.
+
+![App Uninstaller](https://github.com/idlepoe/idlepoe/blob/main/AppUninstallerMerged.png?raw=true)
+- **App Uninstaller - Dev Analyzer** – Smart app manager that detects development languages.
+
+![VideoConverter](https://github.com/idlepoe/idlepoe/blob/main/VideoConverterMerged.png?raw=true)
+- **VideoConverter** – Convert videos with privacy protection. Support 6 formats & 8 languages.
 
 
 > \* Some apps may not be currently available on the store depending on operational status.
 
-![My Apps Screenshot](https://github.com/idlepoe/idlepoe/blob/main/image.png?raw=true)
+![My Apps Screenshot](https://github.com/idlepoe/idlepoe/blob/main/playstore251009.png?raw=true)
 
 ---
 

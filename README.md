@@ -71,6 +71,9 @@ Since leaving my previous job, I’ve developed the following apps:
 ![image9](https://github.com/idlepoe/idlepoe/blob/main/0928180848438856.jpg?raw=true)
 - **PhotoQuest** – A social app where AI provides weekly themes, users submit photos matching the theme, and AI evaluates and ranks the submissions
 
+![MergedImages](https://github.com/idlepoe/idlepoe/blob/main/MergedImages.png?raw=true)
+- **Food Monster Battle** – Create AI monsters from food photos and battle them in this fun game! Collect your own food monsters.  
+
 
 
 

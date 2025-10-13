@@ -86,6 +86,9 @@ Since leaving my previous job, I’ve developed the following apps:
 ![VideoConverter](https://github.com/idlepoe/idlepoe/blob/main/VideoConverterMerged.png?raw=true)
 - **VideoConverter** – Convert videos with privacy protection. Support 6 formats & 8 languages.
 
+![Mood Diary](https://github.com/idlepoe/idlepoe/blob/main/MoodDiaryMerge.png?raw=true)
+- **Mood Diary** – Track your daily emotions and discover patterns in your life.
+
 
 > \* Some apps may not be currently available on the store depending on operational status.
 

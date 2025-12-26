@@ -11,7 +11,7 @@ Since leaving my previous job, I’ve developed the following apps:
 #### 🎭 Entertainment - Culture & Events Apps
 
 **Korean Cities:**
-- **서울시 문화행사** – 전시·공연·축제 정보  
+- ![서울시 문화행사](https://github.com/idlepoe/idlepoe/blob/main/0628002630385000.jpg?raw=true) **서울시 문화행사** – 전시·공연·축제 정보  
   GitHub: [https://github.com/idlepoe/seoul_event](https://github.com/idlepoe/seoul_event) *
 - **충주시 문화행사** – 전시·공연·축제 정보
 - **춘천시 문화행사** – 전시·공연·축제 정보
@@ -64,71 +64,73 @@ Since leaving my previous job, I’ve developed the following apps:
 
 #### 🎮 Games
 
-- **푸드몬스터배틀** – 음식 관련 재미있는 배틀 게임 앱  
+- ![푸드몬스터배틀](https://github.com/idlepoe/idlepoe/blob/main/MergedImages.png?raw=true) **푸드몬스터배틀** – 음식 관련 재미있는 배틀 게임 앱  
   GitHub: [https://github.com/idlepoe/zer0kcal](https://github.com/idlepoe/zer0kcal) *
-- **폰슛** – 휴대폰 높게 던지기. 던진 폰의 높이를 기록하고 전 세계 사용자와 경쟁하는 간단한 앱
+- <img src="https://play-lh.googleusercontent.com/zy-lof8S9cYnS4-yfJT54a7pEN4yiN2lA61svqHFWPLlB9HHVmbpc01tpx2CJjw8nAQTvhQjIXBJ2HrE3DUhZw=s256-rw" alt="폰슛" width="32" height="32"> **폰슛** – 휴대폰 높게 던지기. 던진 폰의 높이를 기록하고 전 세계 사용자와 경쟁하는 간단한 앱
 
 #### 🛠 Tools
 
-- **WebP 변환기** – 비디오를 WebP 형식으로 변환하는 앱
-- **WebpMe - WebP 변환기** – 비디오를 WebP 형식으로 변환하는 앱  
+- <img src="https://play-lh.googleusercontent.com/YtBr3WwvoC2Fd6GINf2oFWsZxNxP7Ua-f03g9MaJXSKebVf_b_1PTtGBGb4_miW2stEf2_P-O_hnSQmbBUBB=s256-rw" alt="WebP 변환기" width="32" height="32"> **WebP 변환기** – 비디오를 WebP 형식으로 변환하는 앱
+- ![WebpMe](https://github.com/idlepoe/idlepoe/blob/main/0715202823453599.jpg?raw=true) **WebpMe - WebP 변환기** – 비디오를 WebP 형식으로 변환하는 앱  
   GitHub: [https://github.com/idlepoe/video_to_webp](https://github.com/idlepoe/video_to_webp) *
-- **WebpMe2** – WebP 변환 도구
-- **VideoConverter** – Convert videos with privacy protection. Support 6 formats & 8 languages.
-- **팁 계산기** – 식당에서 팁을 쉽게 계산할 수 있는 앱
-- **App Uninstaller - Dev Analyzer** – 기기에서 앱을 관리하고 제거하기 위한 간단하고 효율적인 앱. 개발 언어를 감지하는 스마트 앱 관리자
+- <img src="https://play-lh.googleusercontent.com/AtebIMtj3BdXgpa4mvq7qerwSFIB8pwnNP9TzGsh0g9pZb9I4HCvcfinbpdlFNFQNak=s256-rw" alt="WebpMe2" width="32" height="32"> **WebpMe2** – WebP 변환 도구
+- ![VideoConverter](https://github.com/idlepoe/idlepoe/blob/main/VideoConverterMerged.png?raw=true) **VideoConverter** – Convert videos with privacy protection. Support 6 formats & 8 languages.
+- ![팁 계산기](https://github.com/idlepoe/idlepoe/blob/main/tipMerge.png?raw=true) **팁 계산기** – 식당에서 팁을 쉽게 계산할 수 있는 앱
+- ![App Uninstaller](https://github.com/idlepoe/idlepoe/blob/main/AppUninstallerMerged.png?raw=true) **App Uninstaller - Dev Analyzer** – 기기에서 앱을 관리하고 제거하기 위한 간단하고 효율적인 앱. 개발 언어를 감지하는 스마트 앱 관리자
 
 #### 💰 Finance
 
-- **로또87** – QR확인, 추첨알림, 당첨확인, 로또확인. QR코드로 로또 확인, 추첨 알림, 당첨 확인 기능을 제공하는 앱
+- <img src="https://play-lh.googleusercontent.com/w5eKZBzn4v0vYwYiUpVDrqfW1S2zS6J1vZGWk03v4iIvCpBoVS0cwWzVsiVmxnT392WI5w1gC8GAr_JYZ6O-=s256-rw" alt="로또87" width="32" height="32"> **로또87** – QR확인, 추첨알림, 당첨확인, 로또확인. QR코드로 로또 확인, 추첨 알림, 당첨 확인 기능을 제공하는 앱
 
 #### 💬 Communication
 
-- **퀵퀵챗** – 실시간 익명 채팅과 업무 타이머 기능을 갖춘 종합 앱
+- ![퀵퀵챗](https://github.com/idlepoe/idlepoe/blob/main/0928175357797585.jpg?raw=true) **퀵퀵챗** – 실시간 익명 채팅과 업무 타이머 기능을 갖춘 종합 앱
 
 #### 👥 Social
 
-- **푸드 퀘스트** – AI가 주간 테마를 제공하고, 사용자가 테마에 맞는 사진을 제출하면 AI가 평가하고 순위를 매기는 소셜 앱
-- **Ulala Cafe** – Listen Together, Enjoy Together. Experience the emotional vibes of Ulala Cafe with music—create your own playlist and share your favorite tunes with everyone!  
+- ![푸드 퀘스트](https://github.com/idlepoe/idlepoe/blob/main/0928180848438856.jpg?raw=true) **푸드 퀘스트** – AI가 주간 테마를 제공하고, 사용자가 테마에 맞는 사진을 제출하면 AI가 평가하고 순위를 매기는 소셜 앱
+- ![Ulala Cafe](https://github.com/idlepoe/idlepoe/blob/main/0706200936156720.jpg?raw=true) **Ulala Cafe** – Listen Together, Enjoy Together. Experience the emotional vibes of Ulala Cafe with music—create your own playlist and share your favorite tunes with everyone!  
   GitHub: [https://github.com/idlepoe/ulala_cafe](https://github.com/idlepoe/ulala_cafe) *
-- **Ulala** – A social app that lets users share YouTube music clips and listen to the same segment together  
+- ![Ulala](https://github.com/idlepoe/idlepoe/blob/main/0619074355771630.jpg?raw=true) **Ulala** – A social app that lets users share YouTube music clips and listen to the same segment together  
   GitHub: [https://github.com/idlepoe/ulala-now2](https://github.com/idlepoe/ulala-now2) *
-- **OfficeLounge** – A vibrant social app combining coin horse-racing, fishing mini-games, playlist sharing, and free-form discussion boards.  
+- ![OfficeLounge](https://github.com/idlepoe/idlepoe/blob/main/062612493065799.jpg?raw=true) **OfficeLounge** – A vibrant social app combining coin horse-racing, fishing mini-games, playlist sharing, and free-form discussion boards.  
   GitHub: [https://github.com/idlepoe/samusil_addon](https://github.com/idlepoe/samusil_addon) *
-- **Jinpoommukpoom** – A social quiz app where users guess the price of food based on photos  
+- ![Jinpoommukpoom](https://github.com/idlepoe/idlepoe/blob/main/0928180321855769.jpg?raw=true) **Jinpoommukpoom** – A social quiz app where users guess the price of food based on photos  
   GitHub: [https://github.com/idlepoe/muklog](https://github.com/idlepoe/muklog) *
-- **Eunhasu** – An anonymous AI gender-guessing random chat messenger  
+- ![Eunhasu](https://github.com/idlepoe/idlepoe/blob/main/0928180602297576.jpg?raw=true) **Eunhasu** – An anonymous AI gender-guessing random chat messenger  
   GitHub: [https://github.com/idlepoe/eunhasu2](https://github.com/idlepoe/eunhasu2) *
 
 #### 🏠 Lifestyle
 
-- **무드 다이어리** – 일상의 기분과 감정을 기록하는 다이어리 앱
-- **내일 쉬는 날** – 다음 휴일까지 남은 시간을 확인할 수 있는 앱
-- **포포홈** – 유기동물 입양 플랫폼. 유기동물 입양을 위한 플랫폼 앱  
+- ![무드 다이어리](https://github.com/idlepoe/idlepoe/blob/main/MoodDiaryMerge.png?raw=true) **무드 다이어리** – 일상의 기분과 감정을 기록하는 다이어리 앱
+- ![내일 쉬는 날](https://github.com/idlepoe/idlepoe/blob/main/ddayMerged.png?raw=true) **내일 쉬는 날** – 다음 휴일까지 남은 시간을 확인할 수 있는 앱
+- ![포포홈](https://github.com/idlepoe/idlepoe/blob/main/0708163300249569.jpg?raw=true) **포포홈** – 유기동물 입양 플랫폼. 유기동물 입양을 위한 플랫폼 앱  
   GitHub: [https://github.com/idlepoe/paws_for_home](https://github.com/idlepoe/paws_for_home) *
-- **Seoul Pet Adoption Info** – Displays adoptable animals currently at the Seoul Animal Welfare Centers  
+- ![Seoul Pet Adoption Info](https://github.com/idlepoe/idlepoe/blob/main/0619074251626233.jpg?raw=true) **Seoul Pet Adoption Info** – Displays adoptable animals currently at the Seoul Animal Welfare Centers  
   GitHub: [https://github.com/idlepoe/seoul_pet_adoption](https://github.com/idlepoe/seoul_pet_adoption) *
 
 #### 💪 Health & Fitness
 
-- **제로칼로리** – 먹는 기쁨을 지켜주는 다이어트 앱. AI가 항상 업로드한 음식 사진이 제로 칼로리라고 주장하는 재미있는 다이어트 앱  
+- ![제로칼로리](https://github.com/idlepoe/idlepoe/blob/main/0628020952288110.jpg?raw=true) **제로칼로리** – 먹는 기쁨을 지켜주는 다이어트 앱. AI가 항상 업로드한 음식 사진이 제로 칼로리라고 주장하는 재미있는 다이어트 앱  
   GitHub: [https://github.com/idlepoe/zer0kcal](https://github.com/idlepoe/zer0kcal) *
 
 #### 📰 News & Information
 
-- **Easy News** – AI-Summarized News for the Lazy. AI summarizes SBS news into easy, concise formats and highlights key terms like people, places, and organizations for quick understanding.  
+- ![Easy News](https://github.com/idlepoe/idlepoe/blob/main/0720203321588206.jpg?raw=true) **Easy News** – AI-Summarized News for the Lazy. AI summarizes SBS news into easy, concise formats and highlights key terms like people, places, and organizations for quick understanding.  
   GitHub: [https://github.com/idlepoe/easy_news](https://github.com/idlepoe/easy_news) *
-- **Seoul Public Data Quiz** – An environmental quiz app using water temperature and fine dust data from Seoul's major rivers  
+- ![Seoul Public Data Quiz](https://github.com/idlepoe/idlepoe/blob/main/0619074207796248.jpg?raw=true) **Seoul Public Data Quiz** – An environmental quiz app using water temperature and fine dust data from Seoul's major rivers  
   GitHub: [https://github.com/idlepoe/gonggong](https://github.com/idlepoe/gonggong) *
 
 #### ⚙️ Productivity
 
-- **앱 품앗이** – 비공개 테스터 모집, 피드백 수집을 위한 앱
+- <img src="https://play-lh.googleusercontent.com/CNVWQjW-u_5Uw7_lVikMQPhqTwnSqEcX8d8jxYdmtKakpwRVW-_dDPsWGujBv_labh87keb8RCWtiwPD_PMHNQ=s256-rw" alt="앱 품앗이" width="32" height="32"> **앱 품앗이** – 비공개 테스터 모집, 피드백 수집을 위한 앱
 
 #### 🛒 Shopping & Deals
 
-- **원플모아** – 편의점 1+1 상품 모아보기. 편의점 할인 상품을 한눈에 확인할 수 있는 앱
-- **핫딜모아** – 사이트 핫딜 모아보기. 다양한 쇼핑몰의 핫딜 정보를 모아서 보여주는 앱
+- <img src="https://play-lh.googleusercontent.com/" alt="원플모아" width="32" height="32"> **원플모아** – 편의점 1+1 상품 모아보기. 편의점 할인 상품을 한눈에 확인할 수 있는 앱  
+  [Google Play Store](https://play.google.com/store/apps/dev?id=8906147989440714764)
+- <img src="https://play-lh.googleusercontent.com/" alt="핫딜모아" width="32" height="32"> **핫딜모아** – 사이트 핫딜 모아보기. 다양한 쇼핑몰의 핫딜 정보를 모아서 보여주는 앱  
+  [Google Play Store](https://play.google.com/store/apps/dev?id=8906147989440714764)
 
 
 > \* Some apps may not be currently available on the store depending on operational status.

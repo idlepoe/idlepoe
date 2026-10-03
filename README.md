@@ -174,6 +174,11 @@ Since leaving my previous job, I’ve developed the following apps:
 
 #### 🏠 Lifestyle
 
+- ![御朱印帳](https://github.com/idlepoe/idlepoe/blob/main/JapanStampRallyCollage.png?raw=true) **御朱印帳 (고슈인 수첩)** – 일본 신사를 탐색하고 고슈인 수집 기록을 관리하는 앱  
+  신사와 고슈인의 사진·상세 정보를 확인하고, 지도에서 방문할 신사를 찾을 수 있습니다. 고슈인 획득 기록, 신사별 수집 진행률, 즐겨찾기와 업적 기능으로 나만의 신사 순례 기록을 관리합니다.  
+  Tech: Flutter · Dart · GetX · Firestore · Hive · Geolocator · Google Maps  
+  GitHub: [https://github.com/idlepoe/japan_stamp_rally](https://github.com/idlepoe/japan_stamp_rally)  
+
 - ![무드 다이어리](https://github.com/idlepoe/idlepoe/blob/main/MoodDiaryMerge.png?raw=true) **무드 다이어리** – 일상의 기분과 감정을 기록하는 다이어리 앱  
   [Google Play Store](https://play.google.com/store/apps/details?id=com.jylee.mood_diary)
 - ![내일 쉬는 날](https://github.com/idlepoe/idlepoe/blob/main/ddayMerged.png?raw=true) **내일 쉬는 날** – 다음 휴일까지 남은 시간을 확인할 수 있는 앱  

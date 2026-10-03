@@ -143,6 +143,12 @@ Since leaving my previous job, I’ve developed the following apps:
 
 #### 👥 Social
 
+- ![Mhn Friend QR](https://github.com/idlepoe/idlepoe/blob/main/MhnQrCollage.png?raw=true) **Mhn Friend QR** – 몬스터 헌터 나우 친구 코드를 QR로 공유하고 관리하는 모바일 대응 웹 앱  
+  여러 친구 코드를 붙여 넣어 일괄 등록하고, 대륙별 필터·상태 메시지·코드 복사·게임 앱 초대 링크를 이용할 수 있습니다. 등록한 친구를 체크해 구분하며, 잘못된 코드 신고와 24시간 간격 모집 갱신, 한국어·영어·일본어·중국어를 지원합니다.  
+  Tech: HTML · CSS · JavaScript · QRCode · Firestore · LocalStorage · Firebase Hosting  
+  GitHub: [https://github.com/idlepoe/mhn-qr](https://github.com/idlepoe/mhn-qr)  
+  [웹에서 이용 / Open on Web](https://mhn-qr.web.app/)  
+
 - ![울랄라3](https://github.com/idlepoe/idlepoe/blob/main/Ullala3Collage.png?raw=true) **울랄라3 (ULLALA 3)** – 함께 유튜브 음악을 듣고 채팅하는 공개 음악 라운지 웹 앱  
   음악 검색·선곡·공동 재생, 찜 목록, 채팅·사진 공유, 물고기 수집 도감을 제공합니다. URL 경로로 공개방을 나누며, 넓은 화면에서는 선곡표와 상세 화면을 나란히 표시하고 900px 미만에서는 하단 탭으로 한 화면씩 전환합니다.  
   Tech: Flutter · Dart · YouTube Player IFrame · Firebase Authentication · Firestore · Storage · Cloud Functions · FCM · Firebase Hosting  

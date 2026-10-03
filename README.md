@@ -143,6 +143,11 @@ Since leaving my previous job, I’ve developed the following apps:
 
 #### 👥 Social
 
+- ![울랄라3](https://github.com/idlepoe/idlepoe/blob/main/Ullala3Collage.png?raw=true) **울랄라3 (ULLALA 3)** – 함께 유튜브 음악을 듣고 채팅하는 공개 음악 라운지 웹 앱  
+  음악 검색·선곡·공동 재생, 찜 목록, 채팅·사진 공유, 물고기 수집 도감을 제공합니다. URL 경로로 공개방을 나누며, 넓은 화면에서는 선곡표와 상세 화면을 나란히 표시하고 900px 미만에서는 하단 탭으로 한 화면씩 전환합니다.  
+  Tech: Flutter · Dart · YouTube Player IFrame · Firebase Authentication · Firestore · Storage · Cloud Functions · FCM · Firebase Hosting  
+  GitHub: [https://github.com/idlepoe/ullala3](https://github.com/idlepoe/ullala3)  
+  [웹에서 이용 / Open on Web](https://ullala-space3.web.app/)
 - ![푸드 퀘스트](https://github.com/idlepoe/idlepoe/blob/main/0928180848438856.jpg?raw=true) **푸드 퀘스트** – AI가 주간 테마를 제공하고, 사용자가 테마에 맞는 사진을 제출하면 AI가 평가하고 순위를 매기는 소셜 앱  
   [Google Play Store](https://play.google.com/store/apps/details?id=com.jylee.photo_quest)
 - ![Ulala Cafe](https://github.com/idlepoe/idlepoe/blob/main/0706200936156720.jpg?raw=true) **Ulala Cafe** – Listen Together, Enjoy Together. Experience the emotional vibes of Ulala Cafe with music—create your own playlist and share your favorite tunes with everyone!  

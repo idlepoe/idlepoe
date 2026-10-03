@@ -91,7 +91,12 @@ Since leaving my previous job, I’ve developed the following apps:
 - **도쿄 축제** – 문화행사, 맛집, 체험, 마츠리  
   [Google Play Store](https://play.google.com/store/apps/details?id=com.jylee.tokyo_matsuri)
 
-#### 📚 Education - Japanese Learning Apps
+#### 📚 Education - Learning & Practice Apps
+
+- ![빵실기](https://github.com/idlepoe/idlepoe/blob/main/BakingGuideCollage.png?raw=true) **빵실기** – 제과·제빵기능사 실기를 연습하는 무료·무광고 가이드 앱  
+  제빵 20종·제과 20종의 레시피를 단계별 이미지·체크리스트·감점 포인트로 안내합니다. 재료 배합 조절, 물온도 계산, 발효·굽기 타이머와 여러 품목의 동시 진행을 지원하며, 연습 기록은 기기에 저장됩니다.  
+  Tech: Flutter · Dart · GetX · SharedPreferences · Android Alarm Manager · Local Notifications  
+  GitHub: [https://github.com/idlepoe/baking_guide](https://github.com/idlepoe/baking_guide)  
 
 - **심플JLPT** – JLPT 단어를 효율적으로 암기하는 플래시카드 앱  
   [Google Play Store](https://play.google.com/store/apps/details?id=com.jylee.jlpt_flash)

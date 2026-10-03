@@ -104,6 +104,12 @@ Since leaving my previous job, I’ve developed the following apps:
 
 #### 🎮 Games
 
+- ![Stock Village](https://github.com/idlepoe/idlepoe/blob/main/StockVillageMap.png?raw=true) **Stock Village (작은 주주마을)** – 문자 맵에서 아바타로 이동하며 말풍선으로 대화하고, 가상 회사의 주식을 거래하는 PC·모바일 웹 게임  
+  가상 회사 5종목의 시세가 24시간·5분 간격으로 갱신되며, 매수·매도와 평균 매수가·손익·수익률을 확인할 수 있습니다. 낚시·곤충 포획·유물 수집·던전 원정, 아르바이트, 일일 의뢰, 자유게시판과 랭킹을 함께 즐길 수 있습니다.  
+  Tech: React · TypeScript · Firebase Authentication · Firestore · Realtime Database · Cloud Functions · Firebase Hosting  
+  GitHub: [https://github.com/idlepoe/stock_ville](https://github.com/idlepoe/stock_ville)  
+  [웹에서 플레이 / Play on Web](https://stock-village.web.app)  
+  ![Stock Village 가상 주식 시장](https://github.com/idlepoe/idlepoe/blob/main/StockVillageMarket.png?raw=true)
 - ![푸드몬스터배틀](https://github.com/idlepoe/idlepoe/blob/main/MergedImages.png?raw=true) **푸드몬스터배틀** – 음식 관련 재미있는 배틀 게임 앱  
   GitHub: [https://github.com/idlepoe/zer0kcal](https://github.com/idlepoe/zer0kcal) *  
   [Google Play Store](https://play.google.com/store/apps/details?id=com.jylee.food_battle)

@@ -181,6 +181,11 @@ Since leaving my previous job, I’ve developed the following apps:
 
 #### 📰 News & Information
 
+- ![인제군 소식](https://github.com/idlepoe/idlepoe/blob/main/InjegunSosikCollage.png?raw=true) **인제군 소식** – 인제군청의 공개 정보를 모바일에서 편하게 확인하는 비공식 지역 소식 앱  
+  날씨·공지사항·주간 행사 일정을 한눈에 보고, 합강소식지를 PDF로 읽을 수 있습니다. 구인구직·생활장터·자유게시판과 군장병 우대업소 정보를 제공하며, 관심 분야별 푸시 알림을 설정할 수 있습니다.  
+  Tech: Flutter · Dart · BLoC · Firestore · Cloud Functions · FCM  
+  GitHub: [https://github.com/idlepoe/injegun_sosik](https://github.com/idlepoe/injegun_sosik)  
+
 - ![Easy News](https://github.com/idlepoe/idlepoe/blob/main/0720203321588206.jpg?raw=true) **Easy News** – AI-Summarized News for the Lazy. AI summarizes SBS news into easy, concise formats and highlights key terms like people, places, and organizations for quick understanding.  
   GitHub: [https://github.com/idlepoe/easy_news](https://github.com/idlepoe/easy_news) *
 - ![Seoul Public Data Quiz](https://github.com/idlepoe/idlepoe/blob/main/0619074207796248.jpg?raw=true) **Seoul Public Data Quiz** – An environmental quiz app using water temperature and fine dust data from Seoul's major rivers  

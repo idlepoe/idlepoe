@@ -123,6 +123,12 @@ Since leaving my previous job, I’ve developed the following apps:
 
 #### 👥 Social
 
+- ![밋츄](https://github.com/idlepoe/idlepoe/blob/main/MeetchuCollage.png?raw=true) **밋츄 (Meetchu)** – 새로운 인연을 천천히 만나는 소개팅 앱  
+  나이·지역·관심사를 바탕으로 매일 최대 3명을 소개받고, 서로 관심을 보내면 매칭되어 텍스트·사진·파일을 주고받는 채팅을 시작합니다. 사진과 글로 일상을 나누는 일상 게시판과 이름 없이 이야기하는 익명 게시판, 댓글을 제공합니다.  
+  휴대전화 SMS 인증으로 가입하며 전화번호와 정확한 위치는 공개하지 않고 대략적인 거리만 표시합니다. 프로필 사진 실물 심사, 신고·차단, 관심·매칭·메시지·댓글 푸시 알림, 운영용 관리자 웹을 함께 구성했습니다.  
+  Tech: Flutter · Dart · Riverpod · Freezed · Firebase Authentication · Firestore · Storage · Cloud Functions · FCM · Geolocator · Firebase Hosting  
+  GitHub: [https://github.com/idlepoe/bloom-again](https://github.com/idlepoe/bloom-again)  
+
 - ![Peoplebook](https://github.com/idlepoe/idlepoe/blob/main/PeoplebookCollage.png?raw=true) **Peoplebook (공동 인물록)** – 얼굴·이름·정보를 함께 기록하는 인물 아카이브 웹 앱  
   공개 인물록 탐색·검색과 고유 링크 공유를 지원하며, 목록에 표시하지 않는 인물록도 링크로 참여할 수 있습니다. 이름 후보·정보·얼굴 사진에 추천·반대를 남기면 점수에 따라 대표 이름과 얼굴이 정해집니다. 댓글 답글·번호 참조, 작성한 인물록·댓글의 삭제와 복구도 제공합니다.  
   사진 선택·클립보드 이미지 붙여넣기 후 브라우저에서 얼굴을 검출하며, 여러 얼굴을 선택하거나 수동으로 영역을 지정해 인물을 일괄 등록할 수 있습니다. 익명 계정으로 시작하고 Google 계정을 연동해 작성 기록을 유지할 수 있습니다.  

@@ -123,6 +123,12 @@ Since leaving my previous job, I’ve developed the following apps:
 
 #### 👥 Social
 
+- ![소곤 그룹채팅](assets/sogon/09-group-chat.png) **소곤 (Sogon)** – 전화번호를 서로 공개하지 않는 Windows 메신저<br>
+  휴대폰 웹의 전화번호 인증과 QR 승인으로 PC에 로그인하고, 닉네임과 자동 생성되는 5자리 내 ID로 친구를 연결합니다. 실시간 1:1·최대 30명 그룹채팅, 읽음 표시, 친구 요청·차단, Windows 알림·트레이와 창 너비에 맞춘 화면 전환을 제공합니다.<br>
+  기존 1:1 대화는 그룹방과 분리하며, 새 참여자는 초대 이후 대화만 볼 수 있도록 서버에서 접근 범위를 제한했습니다.<br>
+  Tech: Flutter · Dart · Firebase Authentication · Firestore · Cloud Functions · Firebase Hosting · Windows Notifications<br>
+  **[전체 기능 · 화면 둘러보기](SOGON.md)** · [GitHub](https://github.com/idlepoe/sogon)<br>
+
 - ![밋츄](https://github.com/idlepoe/idlepoe/blob/main/MeetchuCollage.png?raw=true) **밋츄 (Meetchu)** – 새로운 인연을 천천히 만나는 소개팅 앱  
   나이·지역·관심사를 바탕으로 매일 최대 3명을 소개받고, 서로 관심을 보내면 매칭되어 텍스트·사진·파일을 주고받는 채팅을 시작합니다. 사진과 글로 일상을 나누는 일상 게시판과 이름 없이 이야기하는 익명 게시판, 댓글을 제공합니다.  
   휴대전화 SMS 인증으로 가입하며 전화번호와 정확한 위치는 공개하지 않고 대략적인 거리만 표시합니다. 프로필 사진 실물 심사, 신고·차단, 관심·매칭·메시지·댓글 푸시 알림, 운영용 관리자 웹을 함께 구성했습니다.  

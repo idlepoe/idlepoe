@@ -6,6 +6,15 @@
 
 [← 포트폴리오](README.md) · [프로젝트 저장소 · 비공개](https://github.com/idlepoe/sogon)
 
+## Microsoft Store 출시 준비
+
+[Microsoft Store · 출시 예정](https://apps.microsoft.com/detail/9NGP2992G558)
+
+- Store ID: `9NGP2992G558`
+- 2026년 10월 16일 기준: 스토어 등록 준비 중이며, 심사·게시 완료 전입니다. 위 주소는 등록된 Store ID를 바탕으로 한 공개 예정 주소로, 게시 전에는 페이지가 표시되지 않을 수 있습니다.
+- Windows Microsoft Store 앱에서 열기: `ms-windows-store://pdp/?ProductId=9NGP2992G558`
+- 같은 Store ID로 게시하면 출시 후에도 위 주소를 사용합니다.
+
 ![소곤 그룹채팅](assets/sogon/09-group-chat.png)
 
 > 화면은 실제 Flutter Windows 앱과 인증 웹을 실행해 캡처했습니다. 모든 인물·대화는 격리된 Firebase 에뮬레이터의 예시 데이터입니다. 실제 사용자 정보와 운영 계정의 인증 코드는 포함하지 않았습니다. 기준 버전: 1.1.0. Android/iOS 앱은 아직 출시하지 않았으며, 아래 좁은 창 화면은 Windows 앱의 반응형 레이아웃입니다.

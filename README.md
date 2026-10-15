@@ -128,6 +128,7 @@ Since leaving my previous job, I’ve developed the following apps:
   기존 1:1 대화는 그룹방과 분리하며, 새 참여자는 초대 이후 대화만 볼 수 있도록 서버에서 접근 범위를 제한했습니다.<br>
   Tech: Flutter · Dart · Firebase Authentication · Firestore · Cloud Functions · Firebase Hosting · Windows Notifications<br>
   **[전체 기능 · 화면 둘러보기](SOGON.md)** · [GitHub](https://github.com/idlepoe/sogon)<br>
+  [Microsoft Store · 출시 예정](https://apps.microsoft.com/detail/9NGP2992G558) — 심사·게시 완료 전에는 페이지가 표시되지 않을 수 있습니다.<br>
 
 - ![밋츄](https://github.com/idlepoe/idlepoe/blob/main/MeetchuCollage.png?raw=true) **밋츄 (Meetchu)** – 새로운 인연을 천천히 만나는 소개팅 앱  
   나이·지역·관심사를 바탕으로 매일 최대 3명을 소개받고, 서로 관심을 보내면 매칭되어 텍스트·사진·파일을 주고받는 채팅을 시작합니다. 사진과 글로 일상을 나누는 일상 게시판과 이름 없이 이야기하는 익명 게시판, 댓글을 제공합니다.  

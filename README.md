@@ -190,9 +190,19 @@ Since leaving my previous job, I’ve developed the following apps:
 #### 📰 News & Information
 
 - ![인제군 소식](https://github.com/idlepoe/idlepoe/blob/main/InjegunSosikCollage.png?raw=true) **인제군 소식** – 인제군청의 공개 정보를 모바일에서 편하게 확인하는 비공식 지역 소식 앱  
-  날씨·공지사항·주간 행사 일정을 한눈에 보고, 합강소식지를 PDF로 읽을 수 있습니다. 구인구직·생활장터·자유게시판과 군장병 우대업소 정보를 제공하며, 관심 분야별 푸시 알림을 설정할 수 있습니다.  
-  Tech: Flutter · Dart · BLoC · Firestore · Cloud Functions · FCM  
+  딥그린·아이보리 테마와 하단 메뉴로 공지·행사·생활정보를 편하게 확인할 수 있습니다. 행사 달력에서 날짜별 일정을 확인하고, 목록에서는 같은 날짜의 행사를 모아볼 수 있습니다. 날씨·합강소식지 PDF·구인구직·생활장터·자유게시판·칭찬 게시판과 관심 분야별 푸시 알림을 제공합니다.<br>
+  Tech: Flutter · Dart · BLoC · Firestore · Cloud Functions · FCM · Firebase Hosting<br>
   GitHub: [https://github.com/idlepoe/injegun_sosik](https://github.com/idlepoe/injegun_sosik)  
+  [앱 설치 안내](https://injegun-sosik.web.app/) · [Android APK 다운로드](https://injegun-sosik.web.app/downloads/injegun-sosik.apk) · [iOS App Store](https://apps.apple.com/kr/app/id6759485042)
+
+  <details>
+  <summary>휴대폰으로 QR 코드를 스캔해 설치하기</summary>
+
+  | Android APK | iOS App Store |
+  | :---: | :---: |
+  | [<img src="https://github.com/idlepoe/idlepoe/blob/main/assets/injegun_sosik/qr-android.png?raw=true" width="140" alt="Android APK 다운로드 QR 코드">](https://injegun-sosik.web.app/downloads/injegun-sosik.apk) | [<img src="https://github.com/idlepoe/idlepoe/blob/main/assets/injegun_sosik/qr-ios.png?raw=true" width="140" alt="iOS App Store QR 코드">](https://apps.apple.com/kr/app/id6759485042) |
+
+  </details>
 
 - ![Easy News](https://github.com/idlepoe/idlepoe/blob/main/0720203321588206.jpg?raw=true) **Easy News** – AI-Summarized News for the Lazy. AI summarizes SBS news into easy, concise formats and highlights key terms like people, places, and organizations for quick understanding.  
   GitHub: [https://github.com/idlepoe/easy_news](https://github.com/idlepoe/easy_news)  

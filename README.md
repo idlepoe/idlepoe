@@ -256,11 +256,10 @@ Since leaving my previous job, I’ve developed the following apps:
 
 ### 📈 GitHub Stats
 
-![JL's GitHub stats](https://github-readme-stats.vercel.app/api?username=idlepoe&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=idlepoe&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Repository Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=idlepoe&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idlepoe&layout=compact&theme=tokyonight)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=idlepoe&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idlepoe&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 

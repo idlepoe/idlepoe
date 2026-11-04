@@ -1,0 +1,45 @@
+{
+  "addedDate": "2026-11-04",
+  "screenshots": [
+    {
+      "project": "brightness_toggle",
+      "version": "1.0.12",
+      "file": "assets/brightness_toggle/main-en.png",
+      "language": "en-US",
+      "sourceRepository": "idlepoe/brightness_toggle",
+      "sourceCommit": "1f1104f059bcf2059719808fded7ed0d8ae0d645",
+      "capture": "Actual desktop app UI rendered by the project test harness with a fake backend; no user input history or live display-gamma change.",
+      "sha256": "bed211185ef2cfc6c38bf3b4aee347ec17b901709d2b82757f29f77912c0eed9"
+    },
+    {
+      "project": "brightness_toggle",
+      "version": "1.0.12",
+      "file": "assets/brightness_toggle/main-ko.png",
+      "language": "ko-KR",
+      "sourceRepository": "idlepoe/brightness_toggle",
+      "sourceCommit": "1f1104f059bcf2059719808fded7ed0d8ae0d645",
+      "capture": "Actual desktop app UI rendered by the project test harness with a fake backend; no user input history or live display-gamma change.",
+      "sha256": "c554076ae8ec17e584697ebbc3e91e5e2f81a2984d74a96f072a799d4fea1380"
+    },
+    {
+      "project": "long_press_turbo",
+      "version": "1.0.0",
+      "file": "assets/long_press_turbo/main-en.png",
+      "language": "en-US",
+      "sourceRepository": "idlepoe/long_press_turbo",
+      "sourceCommit": "a7904af7922a6ad749359e6c9d517086eacc3cc0",
+      "capture": "Actual desktop app UI rendered by the project test harness with a fake backend; no user input history or live display-gamma change.",
+      "sha256": "1b5c2ea49a2e3bcdf5be5d6f2a1f1a4c31e73b9ba22b2121e55b165689e2f9c6"
+    },
+    {
+      "project": "long_press_turbo",
+      "version": "1.0.0",
+      "file": "assets/long_press_turbo/main-ko.png",
+      "language": "ko-KR",
+      "sourceRepository": "idlepoe/long_press_turbo",
+      "sourceCommit": "a7904af7922a6ad749359e6c9d517086eacc3cc0",
+      "capture": "Actual desktop app UI rendered by the project test harness with a fake backend; no user input history or live display-gamma change.",
+      "sha256": "53aa92615a9e852af38ee679fa0fdfc2ea85539a735defaa568da624c047589b"
+    }
+  ]
+}

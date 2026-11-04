@@ -114,6 +114,21 @@ Since leaving my previous job, I’ve developed the following apps:
 
 #### 🛠 Tools
 
+##### 🪟 Windows Desktop Utilities
+
+- ![Brightness Toggle 영어 설정 화면](assets/brightness_toggle/main-en.png) **Brightness Toggle** – 한 번의 키 입력으로 SDR 화면 감마 프리셋을 전환하는 Windows 유틸리티<br>
+  기본·+25%·+50%·+75% 프리셋과 사용자 프리셋을 제공하며, 검정 유지·대비·실시간 미리보기를 조절할 수 있습니다. 활성 프로그램에 따라 자동 적용하고 다른 앱으로 이동하면 기본 감마로 복원합니다. 디스플레이 선택, 한국어·영어 전환, 상태 알림, 트레이 실행과 Windows 자동 시작을 지원합니다.<br>
+  Tech: C# · .NET 10 · WinForms · Windows Gamma Ramp · MSIX<br>
+  **[기능 · 영어/한국어 스크린샷](BRIGHTNESS_TOGGLE.md)** · [GitHub](https://github.com/idlepoe/brightness_toggle) · [Windows ZIP 다운로드](https://github.com/idlepoe/brightness_toggle/releases/latest) · [Microsoft Store](https://apps.microsoft.com/detail/9NWT13R8QZG6)<br>
+
+- ![Long Press Turbo 영어 설정 화면](assets/long_press_turbo/main-en.png) **Long Press Turbo** – 키보드·마우스 버튼을 길게 누르면 반복 입력하는 Windows 유틸리티<br>
+  버튼을 직접 눌러 여러 개 등록하고, 버튼별 누르기 시간과 반복 간격을 설정합니다. 짧게 누르면 일반 입력, 길게 누르면 반복, 떼면 중지되며 F8로 전체 기능을 켜고 끕니다. 활성 프로세스 지정, 입력 테스트, 상태 알림, 드래그 유지 옵션, 트레이·자동 시작과 한국어·영어 전환을 제공합니다.<br>
+  Tech: C# · .NET 10 · WPF · Windows Input Hooks · SendInput · MSIX<br>
+  **[기능 · 영어/한국어 스크린샷](LONG_PRESS_TURBO.md)** · [GitHub · 비공개 소스](https://github.com/idlepoe/long_press_turbo) · [Microsoft Store · 인증 제출](https://apps.microsoft.com/detail/9NNVFZ6033HH)<br>
+  1.0.0은 2026년 11월 4일 Store 인증에 제출했습니다. 심사·게시 완료 전에는 Store 페이지가 표시되지 않을 수 있습니다.<br>
+
+##### 📱 Media Tools
+
 - ![WebpMe2 - Webp Video Converter](https://github.com/idlepoe/idlepoe/blob/main/AppStore-6760328538-Collage.png?raw=true) **WebpMe2 - Webp Video Converter**  
   기기에서 영상을 편집하고 서버에서 애니메이션 WebP로 변환하는 앱. 변환 중 앱을 닫았다가 나중에 결과를 확인할 수 있으며, 기기의 WebP 이미지를 갤러리에서 볼 수 있습니다.  
   [App Store](https://apps.apple.com/us/app/id6760328538)  

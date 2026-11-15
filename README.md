@@ -168,6 +168,11 @@ Since leaving my previous job, I’ve developed the following apps:
   GitHub: [https://github.com/idlepoe/mhn-qr](https://github.com/idlepoe/mhn-qr)  
   [웹에서 이용 / Open on Web](https://mhn-qr.web.app/)  
 
+- ![울랄라3D 해안가 콘서트장](assets/ullala3d/01-seaside-world.jpg) **울랄라3D (ULLALA3D)** – 아바타로 만나 음악을 함께 듣는 PC·모바일 3D 채팅 월드<br>
+  야외 극장·뮤직 카페·해안가 콘서트장에서 이동하고 의자에 앉아 말풍선으로 대화합니다. YouTube 검색·신청과 순차 공동 재생, 월드 안내판의 대기열, 과반수 스킵 투표, 지난 노래 재신청과 기기별 즐겨찾기를 제공합니다.<br>
+  Tech: React · TypeScript · Three.js · React Three Fiber · Drei · Rapier · Firebase Authentication · Realtime Database · Firestore · Cloud Functions · Firebase Hosting<br>
+  **[기능 · 실제 사용 스크린샷 · Android scrcpy 화면](ULLALA3D.md)** · [GitHub](https://github.com/idlepoe/ullala3d) · [웹에서 이용](https://ullala3d.web.app/)<br>
+
 - ![울랄라3](https://github.com/idlepoe/idlepoe/blob/main/Ullala3Collage.png?raw=true) **울랄라3 (ULLALA 3)** – 함께 유튜브 음악을 듣고 채팅하는 공개 음악 라운지 웹 앱  
   음악 검색·선곡·공동 재생, 찜 목록, 채팅·사진 공유, 물고기 수집 도감을 제공합니다. URL 경로로 공개방을 나누며, 넓은 화면에서는 선곡표와 상세 화면을 나란히 표시하고 900px 미만에서는 하단 탭으로 한 화면씩 전환합니다.  
   Tech: Flutter · Dart · YouTube Player IFrame · Firebase Authentication · Firestore · Storage · Cloud Functions · FCM · Firebase Hosting  
